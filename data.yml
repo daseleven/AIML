@@ -1,0 +1,23 @@
+# Number of classes
+nc: 11  # Change this to the number of classes in your dataset
+
+# Class names
+names: 
+  0: car
+  1: bus
+  2: pickup_truck
+  3: articulated_truck
+  4: motorized_vehicle
+  5: work_van
+  6: single_unit_truck
+  7: pedestrian
+  8: bicycle
+  9: non-motorized_vehicle
+  10: motorcycle
+
+# Paths to training and validation datasets
+train: /AutonomousDriving/train  # Update with the path to your training images
+val: /AutonomousDriving/val   # Update with the path to your validation images
+
+
+array([    0.41611,     0.50485,     0.33379,       0.134,    0.049636,    0.041345,   0.0082355,   0.0047981,    0.076408,   0.0046447,   0.0061583])
