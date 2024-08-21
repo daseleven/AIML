@@ -18,6 +18,3 @@ names:
 # Paths to training and validation datasets
 train: /AutonomousDriving/train  # Update with the path to your training images
 val: /AutonomousDriving/val   # Update with the path to your validation images
-
-
-array([    0.41611,     0.50485,     0.33379,       0.134,    0.049636,    0.041345,   0.0082355,   0.0047981,    0.076408,   0.0046447,   0.0061583])
